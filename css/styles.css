@@ -16,7 +16,7 @@
 		.container {
 			background image: https://www.syl.ru/misc/i/ai/360783/2146540.jpg;
 			width: 80%; 
-			font: century gothic;
+			font-family: 'Xanh Mono', monospace;
 			background: pink; 
 			overflow: hidden; 
 			margin: 20px auto; 
