@@ -25,6 +25,10 @@
 			background-color: pink;
 			font-style: italic; 
 			}
+		.container-2 {
+			width: 100px;
+			height: 70px;
+			}
 		.my-class { 
 			text-align: center; 
 			margin: 10px;
@@ -37,8 +41,6 @@
 			margin: 40px;
 			padding: 20px; 
 			border: 25px solid green;
-			width: 400px; 
-			Height:300px;
 			}
 		* {
 			margin: 0;
