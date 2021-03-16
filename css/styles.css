@@ -30,6 +30,7 @@
 			font-style: italic; 
 			font-family: 'Xanh Mono', monospace;
                         width: 100%;
+			text-align: center;
 			}
 		#my-id { 
 			background-color: pink;
