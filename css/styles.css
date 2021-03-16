@@ -26,10 +26,10 @@
 			}
 		header {
 			color: green;
-                        position: fixed;
 			background: pink;
 			font-style: italic; 
 			font-family: 'Xanh Mono', monospace;
+                        width: 100%;
 			}
 		#my-id { 
 			background-color: pink;
