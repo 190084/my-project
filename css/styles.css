@@ -32,13 +32,11 @@
 			margin: 40px;
 			padding: 20px; 
 			border: 25px solid green;
+			width: 400px; 
+			Height:300px;
 			}
 		* {
+			margin: 0;
 			padding: 0;
-			margin-right: 60px;
-			margin-left: 60px; 
-			background-image: url(../images/IMG_0220.JPG);
-			background-repeat: no-repeat;
- 			background-attachment: fixed;
-  			background-size: 100% 100%;
 			}
+			
