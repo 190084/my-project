@@ -15,6 +15,11 @@
 			background-repeat: no-repeat;
  			background-attachment: fixed;
   			background-size: 100% 100%;
+		header {
+			color: green;
+			background: pink;
+			font-style: italic; 
+			font-family: 'Xanh Mono', monospace;
 			}
 		#my-id { 
 			background-color: pink;
