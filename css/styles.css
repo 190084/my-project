@@ -1,3 +1,8 @@
+		* {
+			margin: 0;
+			padding: 0;
+			}
+			
 		h1 { 
 			color: green; 
 			}
@@ -36,6 +41,15 @@
 			background-color: pink;
 			font-style: italic; 
 			}
+		.container {
+			width: 80%; 
+			font-family: 'Xanh Mono', monospace;
+			background: pink; 
+			overflow: hidden; 
+			margin: 40px;
+			padding: 20px; 
+			border: 25px solid green;
+			}
 		.container-2 {
 			width: 40px;
 			height: 25px;
@@ -53,17 +67,5 @@
 			text-align: center; 
 			margin: 10px;
 			}
-		.container {
-			width: 80%; 
-			font-family: 'Xanh Mono', monospace;
-			background: pink; 
-			overflow: hidden; 
-			margin: 40px;
-			padding: 20px; 
-			border: 25px solid green;
-			}
-		* 	{
-			margin: 0;
-			padding: 0;
-			}
-			
+	
+
