@@ -42,7 +42,7 @@
 			font-style: italic; 
 			}
 		.container {
-			width: 80%; 
+			width: 80px; 
 			font-family: 'Xanh Mono', monospace;
 			background: pink; 
 			overflow: hidden; 
